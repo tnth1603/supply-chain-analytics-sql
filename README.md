@@ -249,6 +249,6 @@ docker run --name supply-chain-db \
 
 ## About
 
-Built by **Evelyn** as part of a data analytics portfolio focused on supply chain and ERP domain knowledge.
+Built by **Tuan Thanh Thinh** as part of a data analytics portfolio focused on supply chain and ERP domain knowledge.
 
 Connect on [LinkedIn](#) | View other projects on [GitHub](#)
