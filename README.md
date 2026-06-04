@@ -251,4 +251,4 @@ docker run --name supply-chain-db \
 
 Built by **Tuan Thanh Thinh** as part of a data analytics portfolio focused on supply chain and ERP domain knowledge.
 
-Connect on [LinkedIn](#) | View other projects on [GitHub](#)
+Connect on [LinkedIn](https://www.linkedin.com/in/henrythinh0311/) | View other projects on [GitHub](https://github.com/tnth1603)
